@@ -1,5 +1,5 @@
 # House price predicting system using data analysis
-### whitehouse - Housing Price Prediction Rapid Prototype
+### Whitehouse - Housing Price Prediction Rapid Prototype
 
 Whitehouse is a rapid prototyping project that aims to generate housing appraisals to determine values of properties in the New York Tri-state Area. 
 
